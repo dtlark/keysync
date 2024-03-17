@@ -1,0 +1,2 @@
+C:\Users\Dean\Desktop\projects\keysync\x64\Debug\keysync.exe
+C:\Users\Dean\Desktop\projects\clne\keysync\x64\Debug\keysync.exe
